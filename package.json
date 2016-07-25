@@ -1,0 +1,29 @@
+{
+  "name": "auto-project",
+  "main": "./lib/auto-project",
+  "version": "1.0.0",
+  "description": "This atom package sets the (git working) directory of the active file to the project tree view.",
+  "keywords": [
+    "project",
+    "treeview",
+    "folder",
+    "directory",
+    "git"
+  ],
+  "repository": "https://github.com/rumoto/auto-project",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.11.1",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "eslint-plugin-react": "^5.2.2",
+    "gulp": "^3.9.1",
+    "gulp-eslint": "^3.0.1"
+  }
+}
