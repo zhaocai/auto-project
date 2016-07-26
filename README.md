@@ -1,5 +1,5 @@
 # auto-project package
 
-This atom package sets the (git working) directory of the active file to the project tree view.
+Set the project folder to the (Git) working directory of the active file.
 
 ![screenshot](https://github.com/rumoto/auto-project/raw/master/screenshot.gif)
