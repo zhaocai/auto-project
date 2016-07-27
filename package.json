@@ -1,7 +1,7 @@
 {
   "name": "auto-project",
   "main": "./lib/auto-project",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Set the project folder to the (Git) working directory of the active file.",
   "keywords": [
     "project",
